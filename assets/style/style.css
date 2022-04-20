@@ -22,6 +22,7 @@ img {
     padding: var(--spacing);
     background: var(--color);
     filter: blur(var(--blur));
+    border-radius: 50px;
 }
 
 .hl {
